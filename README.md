@@ -24,4 +24,4 @@
 
 1. Repoyu bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/kasimay11/toptanbuul.git](https://github.com/kasimay11/toptanbuul.git)
+   git clone https://github.com/kasimay11/ToptanBuul.git
